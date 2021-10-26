@@ -1,3 +1,5 @@
+## Hi, I'm Pablo Garcia
+```javascript
 export class Dev{
     name: "Pablo"
     lastName: "Garcia"
@@ -13,7 +15,7 @@ export class Dev{
             status: "Finished"
         },
         {
-            degree: "Analista Programador Universitario",
+            degree: "University Programmer Analyst",
             years: "2019-2021",
             status: "In Progress"
         }
@@ -61,3 +63,4 @@ export class Dev{
         }
     ]
 }
+```
